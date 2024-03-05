@@ -1,0 +1,13 @@
+.bg-similar-jobs-card {
+  padding: 20px;
+  width: 250px;
+  min-height: 350px;
+  border-radius: 10px;
+  background-color: #202020;
+}
+.jos-item-location-internship-container {
+  margin-top: 30px;
+}
+.job-title {
+  color: #f1f5f9;
+}

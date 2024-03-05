@@ -1,0 +1,12 @@
+.bg-container-no-jobs {
+  height: 600px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.no-jobs-image {
+  height: 200px;
+  width: 200px;
+}

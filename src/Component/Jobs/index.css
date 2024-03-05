@@ -1,0 +1,76 @@
+.jobs-page-section {
+  display: flex;
+}
+.jobs-page-left-section {
+  padding: 20px;
+  min-width: 250px;
+  max-width: 250px;
+  border: 2px solid black;
+}
+.search-button {
+  cursor: pointer;
+  height: 35px;
+  width: 50px;
+  background-color: #202020;
+  color: white;
+  border: none;
+}
+
+.jobs-list-ul {
+  padding: 0px;
+}
+.bg-container-jobs-page {
+  background-color: #121212;
+  min-height: 100vh;
+  color: #cbd5e1;
+}
+.input-search {
+  background-color: transparent;
+  border: none;
+  height: 30px;
+  width: 290px;
+  padding: 5px;
+  color: white;
+  outline: none;
+}
+.input-container {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  border: 3px solid #202020;
+  justify-content: flex-start;
+  width: 300px;
+}
+.bg-container-failure {
+  height: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bg-container-failure-profile {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.retry-button {
+  background-color: #4f46e5;
+  border: none;
+  color: white;
+  padding: 10px;
+}
+.failure-text-head {
+  color: #ffff;
+}
+.failure-text-para {
+  color: #cbd5e1;
+}
+.loader {
+  width: 100%;
+  max-width: 1000px;
+  text-align: center;
+}
+.jobs-page-right-section {
+  padding-right: 20px;
+}

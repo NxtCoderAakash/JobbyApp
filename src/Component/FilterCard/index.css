@@ -1,0 +1,13 @@
+.filter-types-employment-section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.employment-filter-sub-container {
+  padding: 0px;
+  line-height: 2.5;
+  list-style: none;
+}
+.filter-type {
+  font-size: 16px;
+}

@@ -1,0 +1,24 @@
+.bg-container-home {
+  height: 100vh;
+  background-size: cover;
+  width: 100%;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+
+  color: white;
+}
+.home-card {
+  margin-top: 10px;
+  padding: 30px;
+}
+.find-jobs-button {
+  cursor: pointer;
+  margin-top: 30px;
+}
+.logout-button {
+  background-color: #c3c2d1;
+  color: white;
+  padding: 8px;
+  width: 80px;
+  border-radius: 5px;
+  cursor: pointer;
+}

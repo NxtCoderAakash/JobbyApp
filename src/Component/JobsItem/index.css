@@ -1,0 +1,51 @@
+.job-item-image {
+  height: 50px;
+  width: 50px;
+  margin-right: 20px;
+}
+.job-item-image-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.job-title {
+  margin: 0px;
+  font-size: 14px;
+}
+.job-item-ratings-container {
+  display: flex;
+  align-items: center;
+  width: 30px;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+p {
+  margin: 0px;
+}
+.jos-item-location-internship-container {
+  display: flex;
+  justify-content: space-between;
+}
+.jobs-item-desciption-heading {
+  font-size: 16px;
+}
+.jobs-item-description {
+  font-size: 12px;
+}
+.location-job-type-combined {
+  display: flex;
+  width: 200px;
+  justify-content: space-between;
+}
+.bg-contaiiner-jobs-item {
+  background-color: #202020 !important;
+  color: #cbd5e1 !important;
+  padding: 20px !important;
+  border-radius: 10px !important;
+  list-style: none !important;
+  margin-bottom: 20px !important;
+  margin-right: 20px !important;
+}
+a {
+  color: #cbd5e1 !important;
+}

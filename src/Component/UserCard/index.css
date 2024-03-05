@@ -1,0 +1,27 @@
+.user-card {
+  padding: 20px;
+  width: 200px;
+  border-radius: 10px;
+  border: 2px solid black;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  border: none;
+  color: black;
+}
+.user-image {
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+  border: none;
+  align-self: flex-start;
+}
+.user-card-image-container {
+  margin-bottom: 10px;
+}
+.profile-name {
+  margin: 0px;
+  font-size: 20px;
+}
+.para {
+  font-size: 14px;
+}

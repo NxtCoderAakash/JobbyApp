@@ -1,0 +1,73 @@
+.sikills-image {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+}
+.skill-item-container {
+  display: flex;
+
+  align-items: center;
+  width: 180px;
+  height: 150px;
+}
+.life-image-container {
+  display: flex;
+}
+.life-imgae {
+  min-height: 300px;
+  width: 300px;
+  margin-left: 30px;
+}
+.bg-similar-jobs {
+  width: 250px;
+  height: 350px;
+  border: 2px solid black;
+  margin-right: 20px;
+  list-style: none;
+}
+.similar-jobs-container {
+  display: flex;
+  min-width: 800px;
+  padding: 0px;
+}
+.skills-container {
+  width: 700px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.bg-container-jobs-item {
+  min-height: 100vh;
+  background-color: #121212;
+  width: 100%;
+  border-radius: 0px;
+  color: #cbd5e1;
+}
+.job-details-card {
+  margin: 40px;
+  background-color: #202020;
+  padding: 30px;
+  border-radius: 10px;
+}
+.life-title {
+  color: #f8fafc;
+  font-size: 22px;
+}
+.link-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.link-button {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  color: #64748b;
+}
+.similar-job-section {
+  margin: 10px;
+  padding: 30px;
+}
+.job-title-head {
+  color: white;
+}
